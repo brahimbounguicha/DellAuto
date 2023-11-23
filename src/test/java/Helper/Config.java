@@ -12,6 +12,7 @@ public class Config {
 	public static WebDriver driver;
 	
 	public static Actions actions ;
+public static Actions actions2 ;
 	
 	public static void initialzeDriver() throws Exception {
 		ChromeOptions options = new ChromeOptions();
